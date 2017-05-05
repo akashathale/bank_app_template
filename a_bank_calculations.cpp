@@ -1,5 +1,4 @@
 #include "a_bank_calculations.h"
-#include <stdio>
 void credit_debit::add_sub(int j, fin_details &fin){
 	if(j == 1){
 		fin.balace() = fin.balance + amount;
@@ -10,7 +9,7 @@ void credit_debit::add_sub(int j, fin_details &fin){
 	}
 }
 
-cout<<"Hello \n";
+cout<<"Hello world \n";
 void credit_debit::predict(fin_details &fin){
 	char* type = fin.type();
 	int m, y;
