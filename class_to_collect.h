@@ -11,6 +11,3 @@ class gather_info{
         int ret_int();
 };
 
-void yesterday(){
-	cout<<"Yesterday was a Monday"<<endl;
-}
