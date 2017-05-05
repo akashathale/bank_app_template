@@ -11,3 +11,4 @@ class gather_info{
         int ret_int();
 };
 
+cout<<"Hello world\n";
