@@ -8,3 +8,5 @@ class calculator{
 	calculator(balance b1, ROI r): b{b1}, rate{r}{};
 	float ret_prediction
 };
+cout<<"Helo";
+
